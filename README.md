@@ -1,8 +1,8 @@
 ## Algorithm Assignment 5
-### Seok-Hyeon Bang, 20184389
-### For Algorithm Class 03, Assignment # 05, Open Source SW Project (Deep Learning)
+#### Seok-Hyeon Bang, 20184389
+#### For Algorithm Class 03, Assignment # 05, Open Source SW Project (Deep Learning)
 
-### 1st Model
+### 1. 1st Model
 #### 1. Model
 ##### 3 Layers with 1 Convolution layer
 ![01_Model](https://user-images.githubusercontent.com/31115765/173283663-150c37bd-d00f-4337-b525-29dfedece618.png)
@@ -16,7 +16,7 @@
 ![01_wrong](https://user-images.githubusercontent.com/31115765/173283366-99ddfdf1-2585-4416-8fd7-34b8c4bbde8a.png)
 
 
-### 2nd Model
+### 2. 2nd Model
 #### 1. Model
 ##### 3 Layers with 1 Convolution layer
 ![02_Model](https://user-images.githubusercontent.com/31115765/173284211-71d61b2d-9bd5-487d-9b47-3a1703befc79.png)
@@ -30,7 +30,7 @@
 ![02_wrong](https://user-images.githubusercontent.com/31115765/173284203-970d29da-9325-4e8e-9911-7f0db8c91f2f.png)
 
 
-### 3rd Model
+### 3. 3rd Model
 #### 1. Model
 ##### 7 Layers with 4 Convolution layer
 ![03_Model](https://user-images.githubusercontent.com/31115765/173284682-14525335-5ad7-48b1-8ab0-d93e8d6df293.png)
